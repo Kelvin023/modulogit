@@ -1,2 +1,5 @@
 /*CSS QUALQUER*/
-Uma nova linha foi adicionada.
+body{
+    margin: 0;
+    padding: 0;
+}
